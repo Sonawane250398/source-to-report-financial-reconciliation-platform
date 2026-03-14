@@ -1,0 +1,10 @@
+issue_type,transaction_id,source_amount,transformed_amount,source_cost_center,mapped_cost_center,source_account,mapped_account,remarks
+Missing Record,TXN-1005,4100.0,,CC-400,,6010,,Source record not found in transformed layer
+Missing Record,TXN-1017,2900.0,,CC-400,,6010,,Source record not found in transformed layer
+Duplicate Transaction,TXN-1008,9300.0,9300.0,CC-100,CC-100,4010,4010,Transaction ID appears 2 times in transformed layer
+Duplicate Transaction,TXN-1009,11200.0,11200.0,CC-500,CC-500,7010,7010,Transaction ID appears 2 times in transformed layer
+Amount Mismatch,TXN-1003,3200.0,3450.0,CC-300,CC-300,5010,5010,Source and transformed amounts differ by 250.00
+Amount Mismatch,TXN-1012,7800.0,7500.0,CC-100,CC-100,4010,4010,Source and transformed amounts differ by 300.00
+Amount Mismatch,TXN-1018,3600.0,3900.0,CC-300,CC-300,5010,5010,Source and transformed amounts differ by 300.00
+Invalid Account Mapping,TXN-1007,2800.0,2800.0,CC-300,CC-300,5010,9999,Account 9999 is not in the valid account master
+Invalid Cost Center Mapping,TXN-1014,6200.0,6200.0,CC-500,CC-999,7010,7010,Cost center CC-999 is not in the valid cost center master

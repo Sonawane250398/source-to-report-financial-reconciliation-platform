@@ -1,0 +1,4 @@
+reporting_period,source_total,transformed_total,final_report_total,variance_amount,missing_record_count,duplicate_count,mismatch_count,invalid_mapping_count
+2024-01,82600.0,100050.0,102050.0,1000.0,1,2,1,1
+2024-02,53800.0,58400.0,64600.0,6200.0,1,0,2,1
+Total,136400.0,158450.0,166650.0,8200.0,2,2,3,2
