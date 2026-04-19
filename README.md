@@ -90,3 +90,9 @@ Period-level totals across all three layers with variance amounts and exception 
 │   └── business_rules.md               Validation rules and approval process
 └── README.md
 ```
+
+---
+
+**Yash Sonawane** — Business Analyst | Financial Data Integrity | SQL Reconciliation | Source-to-Report Validation
+
+[Portfolio](https://yashsonawane.vercel.app) · [LinkedIn](https://linkedin.com/in/yash-sonawane25)
